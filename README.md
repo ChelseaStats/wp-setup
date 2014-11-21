@@ -10,7 +10,7 @@
 
 ###### 2 wp-config
 
-- [ ] use the wp-config <a href="https://gist.github.com/ChelseaStats/21d182a7c584fb866834">Here</a>
+- [ ] use the wp-config within this repo
     
     
 ###### 3 Install Plugins
