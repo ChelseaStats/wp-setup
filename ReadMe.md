@@ -8,6 +8,7 @@
 - [ ] Download latest WP from WordPress.org
 - [ ] Rename wp-content to 'assets'
 - [ ] Create sub-folder in 'assets' named 'core'
+- [ ] Use the git ignore file in this repo if you like
 
 ###### 2 wp-config
 
@@ -43,3 +44,5 @@
 ###### 5 Install a theme
 
 ###### 6 Create content / pages
+
+###### 7 Get paid
