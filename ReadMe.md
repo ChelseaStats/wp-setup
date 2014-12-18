@@ -41,8 +41,17 @@
 
 ###### 4 Install Must-use plugins (core)
 
+> if you have some classes that you can't live without or your own plugins you'd never disable then stick them in the `core` folder.
+
+    
 ###### 5 Install a theme
+
+> or make your own. it goes in a folder in the `assets/themes/` folder like `assets/themes/themename`
 
 ###### 6 Create content / pages
 
+> You could do this by script (I'll add this later) or in the admin interface if you prefer.
+
 ###### 7 Get paid
+
+> Site is done, get some $$$, get drunk. party.
