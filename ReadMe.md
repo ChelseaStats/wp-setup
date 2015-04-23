@@ -12,7 +12,7 @@
 
 ###### 2 wp-config
 
-- [ ] Use the wp-config within this repo
+- [ ] Use the wp-config <a href="https://github.com/ChelseaStats/wp-config/">here</a>
 - [ ] Use a unqiue table prefix
 - [ ] Add DB connection details
 - [ ] Change salts + keys to something unique
@@ -37,7 +37,7 @@
 - [ ] Askimet               - 
 - [ ] Limit Login Attempts  - 
 - [ ] Redirection           - 
-- [ ] FeedWordPress         - 
+
 
 ###### 4 Install Must-use plugins (core)
 
